@@ -131,13 +131,13 @@ The simulator is designed to create urgency by showing commercial impact, not ju
 
 ## 🚀 Live Demo
 
-[PASTE YOUR LIVE URL]
+[https://american-dream-interactive-digideck.vercel.app/]
 
 ---
 
 ## 📂 Repository
 
-[PASTE YOUR GITHUB LINK]
+[https://github.com/bongurishi/American-Dream--Interactive-Digideck-2.0/]
 
 ---
 
